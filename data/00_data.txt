@@ -1,0 +1,2 @@
+01_iris.csv: 4 features, 1 decision, C, data source: https://archive.ics.uci.edu/ml/datasets/iris
+02_Skin_NonSkin.csv: 3 features, 1 decision, C, data source: https://archive.ics.uci.edu/ml/datasets/Skin+Segmentation
